@@ -1,0 +1,3 @@
+analytics:
+  type: kafka:3.2
+  disk: 5120
