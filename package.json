@@ -1,0 +1,8 @@
+{
+  "name": "DeviantCord Site",
+  "version": "1.0.0",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "docusaurus": "latest"
+  }
+}
