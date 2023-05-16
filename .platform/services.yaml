@@ -1,3 +1,6 @@
-analytics:
+analytics_stream:
   type: kafka:3.2
   disk: 3072
+analytics_db:
+  type: influxdb:2.3
+  disk: 1024
