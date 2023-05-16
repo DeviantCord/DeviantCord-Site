@@ -1,3 +1,7 @@
 https://{default}/:
   type: upstream
   upstream: "app:http"
+
+https://admin.{default}/:
+  type: upstream
+  upstream: "consumer:http"

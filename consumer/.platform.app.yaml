@@ -4,7 +4,7 @@
 # Container configuration.
 
 #   The name of this app. Must be unique within a project.
-name: 'app'
+name: 'consumer'
 
 #   The runtime the application uses.
 type: 'python:3.11'
@@ -32,7 +32,7 @@ hooks:
 # The configuration of the application when it is exposed to the web.
 web:
   commands:
-    start: "pipenv run python main.py"
+    start: "pipenv run python consumer.py"
 
 ##########################
 # Services
