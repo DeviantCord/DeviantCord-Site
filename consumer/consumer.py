@@ -1,20 +1,16 @@
 from fastapi import FastAPI
-import os
-import uvicorn
+from platformshconfig import Config
+from kafka import KafkaConsumer
 
 app = FastAPI()
+config = Config()
+credentials = config.credentials('analytics_streams')
+kafka_server = '{}:{}'.format(credentials['host'], credentials['port'])
+consumer = KafkaConsumer('my-topic',
+                         group_id='my-group',
+                         bootstrap_servers=kafka_server)
+testing = True
+while testing:
+    print("todo")
 
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
-
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
-
-
-if __name__ == "__main__":
-    port = os.getenv("PORT") or 8080
-    uvicorn.run(app, host="127.0.0.1", port=int(port))

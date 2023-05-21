@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 uvicorn = "~=0.21.1"
 fastapi = "~=0.95.1"
+influxdb-client = "~=1.36.1"
+platformshconfig = "~=2.4.0"
+kafka-python = "~=2.0.2"
 
 [dev-packages]
 
