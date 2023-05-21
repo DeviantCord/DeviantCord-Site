@@ -49,7 +49,7 @@ relationships:
 # Data and mounts
 
 # The size of the persistent disk of the application (in MB).
-disk: 1024
+disk: 512
 
 ##########################
 # Internal maintenance
