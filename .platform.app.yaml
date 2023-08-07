@@ -18,6 +18,10 @@ web:
       index: [ 'index.html' ]
       # Whether to allow serving files which don’t match a rule.
       allow: true
+  commands:
+    start: |
+      yarn
+      yarn serve --port 8888 --host 0.0.0.0
 
 # Specifies a default set of build tasks to run. Flavors are language-specific.
 # More information: https://docs.platform.sh/create-apps/app-reference.html#build
@@ -43,3 +47,4 @@ hooks:
   deploy: |
     yarn
     yarn serve --port 8888 --host 0.0.0.0
+
