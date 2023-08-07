@@ -42,4 +42,4 @@ hooks:
     yarn build
   deploy: |
     yarn
-    yarn serve --build --port 8888 --host 0.0.0.0
+    yarn serve --port 8888 --host 0.0.0.0
