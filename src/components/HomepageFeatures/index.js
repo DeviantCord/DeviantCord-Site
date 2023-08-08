@@ -8,28 +8,29 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        DeviantCord 4 was overhauled to uses Discords Interactive components such as button
+          to make it easier to use!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focus on your community!',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        DeviantCord lets you focus on your art, and we&apos;ll notify your Discord Community about new posts.
+          Whether its new art, or journal updates, DeviantCord will keep your Discord community informed.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by RabbitMQ',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        DeviantCord 4 introduces a faster notification system. DeviantCord delayed notifications are a thing of the past!
+          Once our system detects that a new deviation is posted that your Discord server is listening for, it will
+          immediately post a notification, rather than waiting in a slow delayed queue.
       </>
     ),
   },
