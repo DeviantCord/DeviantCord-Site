@@ -51,7 +51,7 @@ const FeatureList = [
     ),
   },
     {
-        title: 'Free & and better then DA' &apos + `offering`,
+        title: 'Free & and better then DA&apos' + `offering`,
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
