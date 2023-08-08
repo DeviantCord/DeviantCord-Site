@@ -18,8 +18,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Add Bot ⏱️
           </Link>
+            &emsp;
+            <Link
+                className="button button--secondary button--lg"
+                to="/docs/intro">
+                Download DeviantCord ⏱️
+            </Link>
+
         </div>
       </div>
     </header>

@@ -22,12 +22,21 @@ const FeatureList = [
       </>
     ),
   },
+    {
+        title: 'Fast Notifications',
+        Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+        description: (
+            <>
+                DeviantCord 4 introduces a faster notification system. DeviantCord delayed notifications are a thing of the past!
+            </>
+        ),
+    },
   {
-    title: 'Powered by RabbitMQ',
+    title: 'Self Hosted Available',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        DeviantCord 4 introduces a faster notification system. DeviantCord delayed notifications are a thing of the past!
+        DeviantCord 4 allows for you to self host your own DeviantCord bot. It works great with CockroachDB Serverless, which offers a free tier!
       </>
     ),
   },
