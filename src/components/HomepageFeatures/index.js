@@ -19,7 +19,6 @@ const FeatureList = [
     description: (
       <>
         DeviantCord lets you focus on your art, and we&apos;ll notify your Discord Community about new posts.
-          Whether its new art, or journal updates, DeviantCord will keep your Discord community informed.
       </>
     ),
   },
@@ -29,8 +28,6 @@ const FeatureList = [
     description: (
       <>
         DeviantCord 4 introduces a faster notification system. DeviantCord delayed notifications are a thing of the past!
-          Once our system detects that a new deviation is posted that your Discord server is listening for, it will
-          immediately post a notification, rather than waiting in a slow delayed queue.
       </>
     ),
   },
