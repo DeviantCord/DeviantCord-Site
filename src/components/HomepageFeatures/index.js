@@ -3,7 +3,17 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
+    {
+        title: 'New & Improved',
+        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        description: (
+            <>
+                DeviantCord 4 was overhauled to be much more reliable then DeviantCord 4. With less crashes and maintenance.
+                If you had problems on DeviantCord 2 or 3, give it another try!
+            </>
+        ),
+    },
+    {
     title: 'Easy to Use',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -40,6 +50,16 @@ const FeatureList = [
       </>
     ),
   },
+    {
+        title: 'Free & and better then DA' &apos + `offering`,
+        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        description: (
+            <>
+                DeviantCord 4 is free and will never have its core features behind a paywall.
+                It also has more features then DeviantArt's official Discord offering.
+            </>
+        ),
+    },
 ];
 
 function Feature({Svg, title, description}) {
