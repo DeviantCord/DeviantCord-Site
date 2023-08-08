@@ -24,7 +24,7 @@ function HomepageHeader() {
             <Link
                 className="button button--secondary button--lg"
                 to="/docs/intro">
-                Download DeviantCord ⏱️
+                Download DeviantCord
             </Link>
 
         </div>
