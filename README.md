@@ -1,11 +1,18 @@
 # prod-deviantcord
-Prod-DeviantCord, is the project that houses the new DeviantCord 4 website, as well as the overhauled documentation.
-The site will also house the blog for DeviantCord. The site is powered by the Docusaurus, and is served by a FastAPI
-server running uvicorn. 
+Prod-DeviantCord, is the project that houses the new DeviantCord 4 website. The site includes the Homepage for DeviantCord,
+the blog, and the overhauled documentation. 
 
-Python is being used in the backend to allow for analytic tracking with Kafka, combined with InfluxDB for historical
-traffic tracking. The aim for Kafka is to track which pages
-are getting the most attention. 
+The site is deployed on Platform.sh's US-4 GCP region powered by Docusarus and Yarn.
 
-Like prod-dls, this project is being hosted on Platform.sh to act as a test project utilizing Kafka that will be used in
-production.  This project will eventually be using the Generic Container type. 
+### Development Requirements
+
+- NodeJS 16
+- Yarn
+- Images should be in .svg if they are originally in that format. 
+
+### Note:
+This repository is intended at some point to go opensource. 
+Please be mindful of the commit history, this will actually go public.
+
+### Submitting New Pages
+A Markdown file will be created with steps on how to submit revisions to the new documentation or to submit new pages
