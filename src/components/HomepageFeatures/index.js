@@ -80,7 +80,7 @@ function Feature({png, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={png} className="dc-feature-image" role="img" />
+        <img src={png} className={styles.dc-feature-image} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
