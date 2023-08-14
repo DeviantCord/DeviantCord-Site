@@ -1,0 +1,27 @@
+{
+  "unversionedId": "commands/Update Commands",
+  "id": "commands/Update Commands",
+  "title": "Update Commands",
+  "description": "",
+  "source": "@site/docs/commands/Update Commands.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/Update Commands",
+  "permalink": "/docs/commands/Update Commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/commands/Update Commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journal Commands",
+    "permalink": "/docs/commands/Journal Commands"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

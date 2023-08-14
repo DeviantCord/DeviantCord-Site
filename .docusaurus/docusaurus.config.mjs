@@ -44,15 +44,15 @@ export default {
     "navbar": {
       "title": "DeviantCord",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "DeviantCord Logo",
+        "src": "img/deviantbot_icon_transparent.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Guide"
         },
         {
           "to": "/blog",
@@ -71,21 +71,17 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Guides",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Commands",
+              "to": "/docs/commands/command-list"
             }
           ]
         },
         {
           "title": "Community",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
