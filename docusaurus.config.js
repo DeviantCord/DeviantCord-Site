@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: 'DeviantCord',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'DeviantCord Logo',
+          src: 'img/deviantbot_icon_transparent.png',
         },
         items: [
           {

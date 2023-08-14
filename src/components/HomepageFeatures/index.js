@@ -52,7 +52,7 @@ const FeatureList = [
     },
     {
         title: 'Free & and better then DAs offering',
-        png: require('@site/static/img/free.png').default,
+        png: require('@site/static/img/free_2.png').default,
         description: (
             <>
                 DeviantCord 4 is free and will never have its core features behind a paywall.
