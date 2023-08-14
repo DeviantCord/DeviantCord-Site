@@ -21,3 +21,16 @@
   align-items: center;
   justify-content: center;
 }
+
+.hero-header-bg-image {
+    background-image: url(/img/deviantcord_status_bg.png);
+    background-size: 400px;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    opacity: 0.2;
+}
+
+.hero-container {
+    z-index: 10;
+}
