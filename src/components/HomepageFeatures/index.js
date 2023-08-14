@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
     {
         title: 'New & Improved',
-        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        Svg: require('@site/static/img/new_and_improved.png').default,
         description: (
             <>
                 DeviantCord 4 was overhauled to be much more reliable then DeviantCord 4. With less crashes and maintenance.
@@ -15,7 +15,7 @@ const FeatureList = [
     },
     {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/easy_to_use.png').default,
     description: (
       <>
         DeviantCord 4 was overhauled to uses Discords Interactive components such as button
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on your community!',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/community.png').default,
     description: (
       <>
         DeviantCord lets you focus on your art, and we&apos;ll notify your Discord Community about new posts.
@@ -34,7 +34,7 @@ const FeatureList = [
   },
     {
         title: 'Fast Notifications',
-        Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+        Svg: require('@site/static/img/fast_notifications.png').default,
         description: (
             <>
                 DeviantCord 4 introduces a faster notification system. DeviantCord delayed notifications are a thing of the past!
@@ -43,7 +43,7 @@ const FeatureList = [
     },
   {
     title: 'Self Hosted Available',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/self_hosted.png').default,
     description: (
       <>
         DeviantCord 4 allows for you to self host your own DeviantCord bot. It works great with CockroachDB Serverless, which offers a free tier!
@@ -52,7 +52,7 @@ const FeatureList = [
   },
     {
         title: 'Free & and better then DAs offering',
-        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        Svg: require('@site/static/img/free.png').default,
         description: (
             <>
                 DeviantCord 4 is free and will never have its core features behind a paywall.
