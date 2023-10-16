@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "DeviantCord",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "Errite Softworks LLC",
+  "projectName": "DeviantCord",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -42,17 +42,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "DeviantCord",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "DeviantCord Logo",
+        "src": "img/deviantbot_icon_transparent.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Guide"
         },
         {
           "to": "/blog",
@@ -71,21 +71,17 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Guides",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Commands",
+              "to": "/docs/commands/command-list"
             }
           ]
         },
         {
           "title": "Community",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
@@ -110,7 +106,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Errite Softworks LLC. Built with Docusaurus."
     },
     "prism": {
       "theme": {

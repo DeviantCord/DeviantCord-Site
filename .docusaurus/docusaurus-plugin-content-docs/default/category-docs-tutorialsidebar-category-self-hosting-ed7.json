@@ -1,0 +1,16 @@
+{
+  "title": "Self Hosting",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/self-hosting",
+  "permalink": "/docs/category/self-hosting",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Setting up CockroachDB",
+      "permalink": "/docs/self-hosting/cockroach-serverless"
+    }
+  }
+}

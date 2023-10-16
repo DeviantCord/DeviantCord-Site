@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Commands/Folder Commands",
+  "id": "Commands/Folder Commands",
+  "title": "Folder Commands",
+  "description": "",
+  "source": "@site/docs/Commands/Folder Commands.md",
+  "sourceDirName": "Commands",
+  "slug": "/Commands/Folder Commands",
+  "permalink": "/docs/Commands/Folder Commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Commands/Folder Commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Commands",
+    "permalink": "/docs/Commands/Setup Commands"
+  },
+  "next": {
+    "title": "Status Commands",
+    "permalink": "/docs/Commands/Status Commands"
+  }
+}

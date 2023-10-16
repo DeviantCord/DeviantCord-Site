@@ -150,56 +150,48 @@
     },
     "content": "6d719f28"
   },
-  "/docs-682": {
+  "/docs-4dd": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "9be11469"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/docs/category/commands-17f": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ea88f2a1"
+    "categoryGeneratedIndex": "269afbcb"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/category/self-hosting-839": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c844b82d"
+    "categoryGeneratedIndex": "e6ffb4b4"
+  },
+  "/docs/commands/admin-commands-c59": {
+    "__comp": "17896441",
+    "content": "973c246e"
+  },
+  "/docs/commands/command-list-77b": {
+    "__comp": "17896441",
+    "content": "b7750e40"
+  },
+  "/docs/commands/listener-commands-711": {
+    "__comp": "17896441",
+    "content": "463d662e"
+  },
+  "/docs/commands/update-commands-23e": {
+    "__comp": "17896441",
+    "content": "6ec2d869"
   },
   "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/docs/self-hosting/cockroach-serverless-cb8": {
     "__comp": "17896441",
-    "content": "822bd8ab"
+    "content": "6e0e983c"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/docs/self-hosting/setup-docker-3f3": {
     "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "17896441",
-    "content": "e44a2883"
+    "content": "dd7256ae"
   },
   "/-0a6": {
     "__comp": "c4f5d8e4",

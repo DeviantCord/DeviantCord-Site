@@ -1,0 +1,11 @@
+{
+  "title": "Commands",
+  "slug": "/category/commands",
+  "permalink": "/docs/category/commands",
+  "navigation": {
+    "next": {
+      "title": "Command List",
+      "permalink": "/docs/commands/command-list"
+    }
+  }
+}

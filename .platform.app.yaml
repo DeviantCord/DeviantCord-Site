@@ -1,6 +1,6 @@
 name: app
   # The type of the application to build.
-type: "nodejs:18"
+type: "nodejs:16"
 
 disk: 2048
 
@@ -44,7 +44,4 @@ hooks:
   build: |
     yarn
     yarn build
-  deploy: |
-    yarn
-    yarn serve --port 8888 --host 0.0.0.0
 

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "self-hosting/setup-docker",
+  "id": "self-hosting/setup-docker",
+  "title": "Setup Docker",
+  "description": "",
+  "source": "@site/docs/self-hosting/setup-docker.md",
+  "sourceDirName": "self-hosting",
+  "slug": "/self-hosting/setup-docker",
+  "permalink": "/docs/self-hosting/setup-docker",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/self-hosting/setup-docker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up CockroachDB",
+    "permalink": "/docs/self-hosting/cockroach-serverless"
+  }
+}

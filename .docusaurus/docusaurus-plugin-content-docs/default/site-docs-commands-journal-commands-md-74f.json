@@ -1,0 +1,27 @@
+{
+  "unversionedId": "commands/journal-commands",
+  "id": "commands/journal-commands",
+  "title": "Journal Commands",
+  "description": "",
+  "source": "@site/docs/commands/journal-commands.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/journal-commands",
+  "permalink": "/docs/commands/journal-commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/commands/journal-commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Status Commands",
+    "permalink": "/docs/commands/status-commands"
+  },
+  "next": {
+    "title": "Update Commands",
+    "permalink": "/docs/commands/update-commands"
+  }
+}

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'DeviantCord',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Errite Softworks LLC', // Usually your GitHub org/user name.
+  projectName: 'DeviantCord', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,17 +64,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'DeviantCord',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'DeviantCord Logo',
+          src: 'img/deviantbot_icon_transparent.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -88,21 +88,17 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Guides',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Commands',
+                to: '/docs/commands/command-list',
               },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
               {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
@@ -127,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Errite Softworks LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
