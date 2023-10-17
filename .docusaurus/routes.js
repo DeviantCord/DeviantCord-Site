@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '96f'),
+    component: ComponentCreator('/blog', 'f21'),
     exact: true
   },
   {
@@ -13,18 +13,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'ab1'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'ff7'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '58b'),
+    path: '/blog/deviantcord4-upcoming-release',
+    component: ComponentCreator('/blog/deviantcord4-upcoming-release', '43f'),
     exact: true
   },
   {
@@ -33,43 +23,28 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '55b'),
+    path: '/blog/tags/deviantcord-4',
+    component: ComponentCreator('/blog/tags/deviantcord-4', '463'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'd29'),
+    path: '/blog/tags/update',
+    component: ComponentCreator('/blog/tags/update', 'c60'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'dec'),
+    path: '/deviantcord',
+    component: ComponentCreator('/deviantcord', 'ae3'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '6d4'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '772'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '2e6'),
-    exact: true
-  },
-  {
-    path: '/test-page',
-    component: ComponentCreator('/test-page', '8c7'),
+    path: '/deviantcord4-status',
+    component: ComponentCreator('/deviantcord4-status', 'd83'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4dd'),
+    component: ComponentCreator('/docs', '827'),
     routes: [
       {
         path: '/docs/category/commands',
@@ -104,12 +79,6 @@ export default [
       {
         path: '/docs/commands/update-commands',
         component: ComponentCreator('/docs/commands/update-commands', '23e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

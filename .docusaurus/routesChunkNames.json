@@ -1,5 +1,5 @@
 {
-  "/blog-96f": {
+  "/blog-f21": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "92efa223"
@@ -7,16 +7,7 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
+        "content": "2eced412"
       }
     ],
     "metadata": "b2b675dd"
@@ -28,29 +19,13 @@
     },
     "archive": "b2f554cd"
   },
-  "/blog/first-blog-post-ab1": {
+  "/blog/deviantcord4-upcoming-release-43f": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "92efa223"
     },
     "sidebar": "814f3328",
-    "content": "e273c56f"
-  },
-  "/blog/long-blog-post-ff7": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "92efa223"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/blog/mdx-blog-post-58b": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "92efa223"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "content": "27a5466b"
   },
   "/blog/tags-243": {
     "__comp": "01a85c17",
@@ -60,7 +35,7 @@
     "sidebar": "814f3328",
     "tags": "a7023ddc"
   },
-  "/blog/tags/docusaurus-55b": {
+  "/blog/tags/deviantcord-4-463": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "92efa223"
@@ -68,22 +43,13 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
+        "content": "2eced412"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "ab17a693",
+    "listMetadata": "19f2adc4"
   },
-  "/blog/tags/facebook-d29": {
+  "/blog/tags/update-c60": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "92efa223"
@@ -91,66 +57,27 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
+        "content": "2eced412"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "2ed736ae",
+    "listMetadata": "a8a015ed"
   },
-  "/blog/tags/hello-dec": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "92efa223"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
-  },
-  "/blog/tags/hola-6d4": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "92efa223"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
-  },
-  "/blog/welcome-772": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "92efa223"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/markdown-page-2e6": {
+  "/deviantcord-ae3": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "616d8a45"
     },
-    "content": "393be207"
+    "content": "eeeb794c"
   },
-  "/test-page-8c7": {
+  "/deviantcord4-status-d83": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "616d8a45"
     },
-    "content": "6d719f28"
+    "content": "c3ff7dd4"
   },
-  "/docs-4dd": {
+  "/docs-827": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "9be11469"
@@ -180,10 +107,6 @@
   "/docs/commands/update-commands-23e": {
     "__comp": "17896441",
     "content": "6ec2d869"
-  },
-  "/docs/intro-aed": {
-    "__comp": "17896441",
-    "content": "0e384e19"
   },
   "/docs/self-hosting/cockroach-serverless-cb8": {
     "__comp": "17896441",

@@ -5,7 +5,7 @@
  */
 export default {
   "title": "DeviantCord",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "DeviantArt on Discord? We've got you covered!",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
@@ -60,7 +60,12 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "to": "/deviantcord4-status",
+          "label": "DeviantCord 4 Status",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/DeviantCord/DeviantCord",
           "label": "GitHub",
           "position": "right"
         }
@@ -84,11 +89,7 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://discord.gg/32krAChPHp"
             }
           ]
         },
@@ -101,7 +102,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/DeviantCord/DeviantCord"
             }
           ]
         }
