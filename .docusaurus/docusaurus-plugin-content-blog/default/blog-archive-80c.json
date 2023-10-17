@@ -1,218 +1,46 @@
 {
   "blogPosts": [
     {
-      "id": "welcome",
+      "id": "deviantcord4-upcoming-release",
       "metadata": {
-        "permalink": "/blog/welcome",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
-        "source": "@site/blog/2021-08-26-welcome/index.md",
-        "title": "Welcome",
-        "description": "Docusaurus blogging features are powered by the blog plugin.",
-        "date": "2021-08-26T00:00:00.000Z",
-        "formattedDate": "August 26, 2021",
+        "permalink": "/blog/deviantcord4-upcoming-release",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-10-15-deviantcord4-upcoming-release.md",
+        "source": "@site/blog/2023-10-15-deviantcord4-upcoming-release.md",
+        "title": "DeviantCord 4 Upcoming Release",
+        "description": "Hello everyone! It has been a long time, and you are all overdue for an update about the current state of DeviantCord, which quite",
+        "date": "2023-10-15T00:00:00.000Z",
+        "formattedDate": "October 15, 2023",
         "tags": [
           {
-            "label": "facebook",
-            "permalink": "/blog/tags/facebook"
+            "label": "deviantcord4",
+            "permalink": "/blog/tags/deviantcord-4"
           },
           {
-            "label": "hello",
-            "permalink": "/blog/tags/hello"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/blog/tags/docusaurus"
+            "label": "update",
+            "permalink": "/blog/tags/update"
           }
         ],
-        "readingTime": 0.405,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          },
-          {
-            "name": "Yangshun Tay",
-            "title": "Front End Engineer @ Facebook",
-            "url": "https://github.com/yangshun",
-            "imageURL": "https://github.com/yangshun.png",
-            "key": "yangshun"
-          }
-        ],
-        "frontMatter": {
-          "slug": "welcome",
-          "title": "Welcome",
-          "authors": [
-            "slorber",
-            "yangshun"
-          ],
-          "tags": [
-            "facebook",
-            "hello",
-            "docusaurus"
-          ]
-        },
-        "nextItem": {
-          "title": "MDX Blog Post",
-          "permalink": "/blog/mdx-blog-post"
-        }
-      },
-      "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
-    },
-    {
-      "id": "mdx-blog-post",
-      "metadata": {
-        "permalink": "/blog/mdx-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
-        "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-        "title": "MDX Blog Post",
-        "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
-        "date": "2021-08-01T00:00:00.000Z",
-        "formattedDate": "August 1, 2021",
-        "tags": [
-          {
-            "label": "docusaurus",
-            "permalink": "/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 0.175,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          }
-        ],
-        "frontMatter": {
-          "slug": "mdx-blog-post",
-          "title": "MDX Blog Post",
-          "authors": [
-            "slorber"
-          ],
-          "tags": [
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "Welcome",
-          "permalink": "/blog/welcome"
-        },
-        "nextItem": {
-          "title": "Long Blog Post",
-          "permalink": "/blog/long-blog-post"
-        }
-      },
-      "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
-    },
-    {
-      "id": "long-blog-post",
-      "metadata": {
-        "permalink": "/blog/long-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
-        "source": "@site/blog/2019-05-29-long-blog-post.md",
-        "title": "Long Blog Post",
-        "description": "This is the summary of a very long blog post,",
-        "date": "2019-05-29T00:00:00.000Z",
-        "formattedDate": "May 29, 2019",
-        "tags": [
-          {
-            "label": "hello",
-            "permalink": "/blog/tags/hello"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 2.05,
+        "readingTime": 2.26,
         "hasTruncateMarker": true,
         "authors": [
           {
-            "name": "Endilie Yacop Sucipto",
-            "title": "Maintainer of Docusaurus",
-            "url": "https://github.com/endiliey",
-            "imageURL": "https://github.com/endiliey.png",
-            "key": "endi"
+            "name": "Michael Riley",
+            "title": "DeviantCord Creator/ Developer",
+            "imageURL": "https://avatars.githubusercontent.com/u/10839242?v=4",
+            "key": "mriley"
           }
         ],
         "frontMatter": {
-          "slug": "long-blog-post",
-          "title": "Long Blog Post",
-          "authors": "endi",
+          "slug": "deviantcord4-upcoming-release",
+          "title": "DeviantCord 4 Upcoming Release",
+          "authors": "mriley",
           "tags": [
-            "hello",
-            "docusaurus"
+            "deviantcord4",
+            "update"
           ]
-        },
-        "prevItem": {
-          "title": "MDX Blog Post",
-          "permalink": "/blog/mdx-blog-post"
-        },
-        "nextItem": {
-          "title": "First Blog Post",
-          "permalink": "/blog/first-blog-post"
         }
       },
-      "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
-    },
-    {
-      "id": "first-blog-post",
-      "metadata": {
-        "permalink": "/blog/first-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
-        "source": "@site/blog/2019-05-28-first-blog-post.md",
-        "title": "First Blog Post",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-        "date": "2019-05-28T00:00:00.000Z",
-        "formattedDate": "May 28, 2019",
-        "tags": [
-          {
-            "label": "hola",
-            "permalink": "/blog/tags/hola"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 0.12,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Gao Wei",
-            "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
-          }
-        ],
-        "frontMatter": {
-          "slug": "first-blog-post",
-          "title": "First Blog Post",
-          "authors": {
-            "name": "Gao Wei",
-            "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
-          },
-          "tags": [
-            "hola",
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "Long Blog Post",
-          "permalink": "/blog/long-blog-post"
-        }
-      },
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+      "content": "Hello everyone! It has been a long time, and you are all overdue for an update about the current state of DeviantCord, which quite\nfrankly has been having issues with consistency and deviations being missed. Today I have released a fix for DeviantCord 3 to fix an issue\nthat was affecting a lot of users, primarily group deviation folders. \nThis fix was very easy to fix once I was made aware of it. You should see a significant backlog of deviations being posted\nto your servers.\n\n<!--truncate-->\n\n## What happened? Why is it taking so long?\nHowever, this is not the focus of today's post, I want to apologize for the lack of progress on DeviantCord 4. \nDeviantCord 4 initially was supposed to release back in late 2021/Early 2022. However after our primary library (Discord.py)\nhad ceased development (at the time the maintainer said they were done, but has gone back on this). I had to make \nthe difficult decision to rewrite DeviantCord in another library / programming language. \n\nWe would eventually settle on Javacord, but would have to rewrite all functionality of the bot, and the new features\nfor DeviantCord 4 in Java. Then eventually slash commands were introduced and we had to re-design DeviantCord around it\nto not only make it usable, but easy for new users to pick up. Not all artists are computer wizards or know how to use \ncommand line interfaces with parameters/arguments. \n\nDeviantCord 4 also had significant breaking backend design changes on how we store, and send data. All of these changes\nwere made either for reliability reasons, or in order to deliver features that were better then in DeviantCord 3.\nThe most visable change is that when our deviation update system detects a post by an artist, our new notification system\nwill tell the bot to send a notification without the bot having to check for changes in the queue. It will effectively \nknow if there are new messages to send instead of checking the queue for changes on a schedule. \n\n\n\nDelivering all of these features was a long and tiring tasks for just me to deliver ontop of what was going on in my life. \nFrom career advancement, to college stuff, to \n\n## What is changing to prevent this from happening in the future?\n\n\n## When will DeviantCord 4 release?\nI am pleased to announce that I have been making significant progress on DeviantCord 4 and plan on having it released\nby the end of the month. As soon as a production build of DeviantCord 4 is ready I will immediately make preperations\nto migrate the current bot \n\nDeviantCord 4, at long last will\n\n## Am I able to track DeviantCord 4's current progress?"
     }
   ]
 }
