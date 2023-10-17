@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DeviantCord',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'DeviantArt on Discord? We\'ve got you covered!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,8 +77,9 @@ const config = {
             label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/deviantcord4-status', label: 'DeviantCord 4 Status', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/DeviantCord/DeviantCord',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,12 +102,8 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                href: 'https://discord.gg/32krAChPHp',
+              }
             ],
           },
           {
@@ -118,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/DeviantCord/DeviantCord',
               },
             ],
           },

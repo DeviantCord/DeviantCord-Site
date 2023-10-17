@@ -33,6 +33,11 @@ export default [
     exact: true
   },
   {
+    path: '/deviantcord',
+    component: ComponentCreator('/deviantcord', 'ae3'),
+    exact: true
+  },
+  {
     path: '/deviantcord4-status',
     component: ComponentCreator('/deviantcord4-status', 'd83'),
     exact: true
