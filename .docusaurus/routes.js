@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4dd'),
+    component: ComponentCreator('/docs', '827'),
     routes: [
       {
         path: '/docs/category/commands',
@@ -79,12 +79,6 @@ export default [
       {
         path: '/docs/commands/update-commands',
         component: ComponentCreator('/docs/commands/update-commands', '23e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

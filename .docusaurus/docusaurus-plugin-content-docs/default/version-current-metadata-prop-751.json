@@ -43,12 +43,6 @@
         "href": "/docs/category/commands"
       },
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
         "label": "Self Hosting",
         "collapsible": true,
@@ -94,12 +88,6 @@
       "id": "commands/update-commands",
       "title": "Update Commands",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "self-hosting/cockroach-serverless": {

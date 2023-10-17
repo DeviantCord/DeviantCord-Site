@@ -77,7 +77,7 @@
     },
     "content": "c3ff7dd4"
   },
-  "/docs-4dd": {
+  "/docs-827": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "9be11469"
@@ -107,10 +107,6 @@
   "/docs/commands/update-commands-23e": {
     "__comp": "17896441",
     "content": "6ec2d869"
-  },
-  "/docs/intro-aed": {
-    "__comp": "17896441",
-    "content": "0e384e19"
   },
   "/docs/self-hosting/cockroach-serverless-cb8": {
     "__comp": "17896441",

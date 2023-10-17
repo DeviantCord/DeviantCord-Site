@@ -5,8 +5,8 @@
   "permalink": "/docs/category/self-hosting",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
-      "permalink": "/docs/intro"
+      "title": "Update Commands",
+      "permalink": "/docs/commands/update-commands"
     },
     "next": {
       "title": "Setting up CockroachDB",
