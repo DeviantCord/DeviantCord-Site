@@ -85,7 +85,7 @@ didn't make the right choice here.
 
 ## When will DeviantCord 4 release?
 I am pleased to announce that I have been making significant progress on DeviantCord 4 and plan on having it released
-by Mid Novemember. However, it could happen soon, as soon as a production build of DeviantCord 4 is ready I will immediately make preperations
+by Mid-November. However, it could happen soon, as soon as a production build of DeviantCord 4 is ready I will immediately make preperations
 to migrate the current bot and post an announcement here and in Discord.
 
 
