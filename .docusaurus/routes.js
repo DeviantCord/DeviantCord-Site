@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'f21'),
+    component: ComponentCreator('/blog', 'b38'),
     exact: true
   },
   {
@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/blog/deviantcord4-upcoming-release',
-    component: ComponentCreator('/blog/deviantcord4-upcoming-release', '43f'),
+    component: ComponentCreator('/blog/deviantcord4-upcoming-release', '5cd'),
     exact: true
   },
   {
@@ -24,12 +24,12 @@ export default [
   },
   {
     path: '/blog/tags/deviantcord-4',
-    component: ComponentCreator('/blog/tags/deviantcord-4', '463'),
+    component: ComponentCreator('/blog/tags/deviantcord-4', '557'),
     exact: true
   },
   {
     path: '/blog/tags/update',
-    component: ComponentCreator('/blog/tags/update', 'c60'),
+    component: ComponentCreator('/blog/tags/update', 'c27'),
     exact: true
   },
   {
