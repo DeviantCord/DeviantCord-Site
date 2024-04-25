@@ -1,5 +1,5 @@
 ## Current TODO List for DeviantCord 4
-**Last Updated October 18th, 2023**
+**Last Updated April 25th, 2024**
 
 In order to be transparent with the progress for DeviantCord 4, this page was created and will be updated accordingly
 with the current status of DeviantCord 4's release
@@ -37,7 +37,8 @@ Implement Current needed data models:
 
 ### Infrastructure Stuff:
 - Transfer Old DeviantCord 3 Postgres to CockroachDB for DeviantCord 4 (Final Infrastructure Online)
-- Ensure RMQ is online (Online, Replication not needed at this stage, it can be moved over later)
+~~- Ensure RMQ is online (Online, Replication not needed at this stage, it can be moved over later)~~
+~~- Ensure CockroachDB full cluster is online~~
 - Turn on DeviantCord 4
 
 
