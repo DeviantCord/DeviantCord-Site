@@ -1,5 +1,5 @@
 ## Current TODO List for DeviantCord 4
-**Last Updated October 18th, 2023**
+**Last Updated Apr 25th, 2024**
 
 In order to be transparent with the progress for DeviantCord 4, this page was created and will be updated accordingly
 with the current status of DeviantCord 4's release
@@ -9,18 +9,19 @@ Deviant-DBS is the backend component that fetches and tracks updates for artists
 and status updates. Currently it is being updated to utilize the new CockroachDB component and RabbitMQ messaging system.
 
 Implement Current needed data models:
-- StatusNotification
-- JournalNotification
+- ~~StatusNotification~~
+- ~~JournalNotification~~
 - Deviation Notification
+- ~~Listener SQL Error Fallback (Flat File retry) via DBS Overseer~~
 
 - Reworked statusNotifications to use RMQ. Check Journal Notification
 
-- Implement Logic to export missed jobs as flat files (Implemented for Journal Notifications
+- ~~Implement Logic to export missed jobs as flat files (Implemented for Journal Notifications)~~
 - Implement Logic to import flat file missed jobs
 
 #### Potential Bugs:
 
-- Models may need to use Dict instead of List for serializeData method. (DONE IN JOURNAL AND STATUS NOTIFICATION)
+- ~~Models may need to use Dict instead of List for serializeData method. (DONE IN JOURNAL AND STATUS NOTIFICATION)~~
 
 #### Nice to Have (NOT REQUIRED FOR LAUNCH):
 - Implement Logging (should be able to skip after verifying that Sentry alerts work properly!)
@@ -36,8 +37,9 @@ Implement Current needed data models:
 - Update Command Lists (Easy)
 
 ### Infrastructure Stuff:
-- Transfer Old DeviantCord 3 Postgres to CockroachDB for DeviantCord 4 (Final Infrastructure Online)
-- Ensure RMQ is online (Online, Replication not needed at this stage, it can be moved over later)
+~~- Transfer Old DeviantCord 3 Postgres to CockroachDB for DeviantCord 4 (Final Infrastructure Online)~~
+~~- Ensure RMQ is online (Online, Replication not needed at this stage, it can be moved over later)~~
+~~- CockroachDB Cluster Onine~~
 - Turn on DeviantCord 4
 
 
