@@ -6,7 +6,7 @@ with the current status of DeviantCord 4's release
 
 ### Deviant DataBase Service (Deviant DBS) TODO
 Deviant-DBS is the backend component that fetches and tracks updates for artists deviations, journals, 
-and status updates. Currently it is being updated to utilize the new CockroachDB component and RabbitMQ messaging system.
+and status updates. Currently, it is being updated to utilize the new CockroachDB component and RabbitMQ messaging system.
 
 Implement Current needed data models:
 - ~~StatusNotification~~
@@ -36,6 +36,8 @@ Implement Current needed data models:
 ~~- Transfer Old DeviantCord 3 Postgres to CockroachDB for DeviantCord 4 (Final Infrastructure Online)~~
 ~~- Ensure RMQ is online (Online, Replication not needed at this stage, it can be moved over later)~~
 ~~- CockroachDB Cluster Onine~~
+- Setup DeviantCord KeyDB x2 Instances
+- Setup DLS KeyDB x2 Instances 
 - Turn on DeviantCord 4
 
 
