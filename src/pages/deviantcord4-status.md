@@ -1,5 +1,5 @@
 ## Current TODO List for DeviantCord 4
-**Last Updated Apr 25th, 2024**
+**Last Updated Apr 26th, 2024**
 
 In order to be transparent with the progress for DeviantCord 4, this page was created and will be updated accordingly
 with the current status of DeviantCord 4's release
@@ -23,13 +23,9 @@ Implement Current needed data models:
 
 - ~~Models may need to use Dict instead of List for serializeData method. (DONE IN JOURNAL AND STATUS NOTIFICATION)~~
 
-#### Nice to Have (NOT REQUIRED FOR LAUNCH):
-- Implement Logging (should be able to skip after verifying that Sentry alerts work properly!)
-- Disable Json Logging
-
 ### Javacord TODO Stuff:
 ~~- Update Javacord dependency~~
-- Fix and Deprecated Methods
+~~- Fix and Deprecated Methods~~
 - Fix the Bug with all required parameters being optional, this sends the wrong message
 - Add Command to find invalid channels and move it to another channel
 
