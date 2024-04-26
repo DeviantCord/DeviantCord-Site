@@ -28,7 +28,7 @@ Implement Current needed data models:
 - Disable Json Logging
 
 ### Javacord TODO Stuff:
-- Update Javacord dependency
+~~- Update Javacord dependency~~
 - Fix and Deprecated Methods
 - Fix the Bug with all required parameters being optional, this sends the wrong message
 - Add Command to find invalid channels and move it to another channel
