@@ -1,8 +1,6 @@
 ## Current TODO List for DeviantCord 4
 **Last Updated Apr 25th, 2024**
 
-
-Test! Test! Test!
 In order to be transparent with the progress for DeviantCord 4, this page was created and will be updated accordingly
 with the current status of DeviantCord 4's release
 
