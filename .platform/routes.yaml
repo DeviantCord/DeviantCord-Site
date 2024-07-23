@@ -1,7 +1,3 @@
 https://{default}/:
   type: upstream
   upstream: "app:http"
-
-https://staging.deviantcord.com/:
-  type: upstream
-  upstream: "app:http"
