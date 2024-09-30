@@ -1,8 +1,8 @@
 {
-  "/blog-b38": {
+  "/blog-f54": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "92efa223"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -10,35 +10,49 @@
         "content": "3aae074b"
       }
     ],
-    "metadata": "b2b675dd"
+    "__props": "c15d9823"
   },
-  "/blog/archive-1d3": {
+  "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "92efa223"
+      "plugin": "36994c47"
     },
-    "archive": "b2f554cd"
+    "__props": "f81c1134"
   },
-  "/blog/deviantcord4-upcoming-release-5cd": {
+  "/blog/authors-0b7": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
+  },
+  "/blog/deviantcord4-upcoming-release-431": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "92efa223"
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "content": "5d8aba6a"
   },
-  "/blog/tags-243": {
+  "/blog/tags-287": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "92efa223"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "__props": "3a2db09e"
   },
-  "/blog/tags/deviantcord-4-557": {
+  "/blog/tags/deviantcord-4-9cf": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "92efa223"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -46,13 +60,12 @@
         "content": "3aae074b"
       }
     ],
-    "tag": "ab17a693",
-    "listMetadata": "19f2adc4"
+    "__props": "6fa8fd58"
   },
-  "/blog/tags/update-c27": {
+  "/blog/tags/update-9b3": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "92efa223"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -60,66 +73,71 @@
         "content": "3aae074b"
       }
     ],
-    "tag": "2ed736ae",
-    "listMetadata": "a8a015ed"
+    "__props": "0766ce7b"
   },
-  "/deviantcord-ae3": {
+  "/deviantcord-04d": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "616d8a45"
+      "plugin": "a7456010"
     },
     "content": "eeeb794c"
   },
-  "/deviantcord4-status-d83": {
+  "/deviantcord4-status-f1e": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "616d8a45"
+      "plugin": "a7456010"
     },
     "content": "c3ff7dd4"
   },
-  "/docs-827": {
-    "__comp": "1be78505",
+  "/docs-71f": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "9be11469"
-    },
-    "versionMetadata": "935f2afb"
+      "plugin": "aba21aa0"
+    }
   },
-  "/docs/category/commands-17f": {
+  "/docs-985": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-ec7": {
+    "__comp": "a94703ab"
+  },
+  "/docs/category/commands-d91": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "269afbcb"
+    "__props": "f4b6202e"
   },
-  "/docs/category/self-hosting-839": {
+  "/docs/category/self-hosting-ad4": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e6ffb4b4"
+    "__props": "87808095"
   },
-  "/docs/commands/admin-commands-c59": {
+  "/docs/commands/admin-commands-53a": {
     "__comp": "17896441",
     "content": "973c246e"
   },
-  "/docs/commands/command-list-77b": {
+  "/docs/commands/command-list-4c7": {
     "__comp": "17896441",
     "content": "b7750e40"
   },
-  "/docs/commands/listener-commands-711": {
+  "/docs/commands/listener-commands-1a9": {
     "__comp": "17896441",
     "content": "463d662e"
   },
-  "/docs/commands/update-commands-23e": {
+  "/docs/commands/update-commands-4dc": {
     "__comp": "17896441",
     "content": "6ec2d869"
   },
-  "/docs/self-hosting/cockroach-serverless-cb8": {
+  "/docs/self-hosting/requirements-276": {
     "__comp": "17896441",
-    "content": "6e0e983c"
+    "content": "ad917743"
   },
-  "/docs/self-hosting/setup-docker-3f3": {
+  "/docs/self-hosting/setup-docker-cc9": {
     "__comp": "17896441",
     "content": "dd7256ae"
   },
-  "/-0a6": {
+  "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "616d8a45"
+      "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   }

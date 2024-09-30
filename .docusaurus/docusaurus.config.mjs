@@ -107,7 +107,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Errite Softworks LLC. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Errite Softworks LLC. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -325,6 +325,11 @@ export default {
         "autoCollapseCategories": false
       }
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -332,6 +337,14 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
@@ -346,6 +359,15 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
   }
 };

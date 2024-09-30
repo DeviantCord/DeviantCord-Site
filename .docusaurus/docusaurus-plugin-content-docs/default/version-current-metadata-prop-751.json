@@ -75,7 +75,7 @@
     "commands/command-list": {
       "id": "commands/command-list",
       "title": "Command List",
-      "description": "",
+      "description": "| Command | Description |",
       "sidebar": "tutorialSidebar"
     },
     "commands/listener-commands": {

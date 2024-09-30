@@ -31,8 +31,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "self-hosting/cockroach-serverless",
-              "path": "/docs/self-hosting/cockroach-serverless",
+              "id": "self-hosting/requirements",
+              "path": "/docs/self-hosting/requirements",
               "sidebar": "tutorialSidebar"
             },
             {

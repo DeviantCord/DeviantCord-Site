@@ -3,7 +3,9 @@
   "items": [
     {
       "title": "DeviantCord 4 Upcoming Release",
-      "permalink": "/blog/deviantcord4-upcoming-release"
+      "permalink": "/blog/deviantcord4-upcoming-release",
+      "unlisted": false,
+      "date": "2023-10-18T00:00:00.000Z"
     }
   ]
 }

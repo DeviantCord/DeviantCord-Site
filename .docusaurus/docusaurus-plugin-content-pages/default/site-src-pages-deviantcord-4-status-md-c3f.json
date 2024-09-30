@@ -3,5 +3,6 @@
   "permalink": "/deviantcord4-status",
   "source": "@site/src/pages/deviantcord4-status.md",
   "description": "Current TODO List for DeviantCord 4",
-  "frontMatter": {}
+  "frontMatter": {},
+  "unlisted": false
 }

@@ -5,25 +5,27 @@
   "title": "DeviantCord 4 Upcoming Release",
   "description": "Hello everyone! It has been a long time, and you are all overdue for an update about the current state of DeviantCord, which quite",
   "date": "2023-10-18T00:00:00.000Z",
-  "formattedDate": "October 18, 2023",
   "tags": [
     {
+      "inline": true,
       "label": "deviantcord4",
       "permalink": "/blog/tags/deviantcord-4"
     },
     {
+      "inline": true,
       "label": "update",
       "permalink": "/blog/tags/update"
     }
   ],
-  "readingTime": 5.95,
+  "readingTime": 5.96,
   "hasTruncateMarker": true,
   "authors": [
     {
       "name": "Michael Riley",
       "title": "DeviantCord Creator/ Developer",
       "imageURL": "https://avatars.githubusercontent.com/u/10839242?v=4",
-      "key": "mriley"
+      "key": "mriley",
+      "page": null
     }
   ],
   "frontMatter": {
@@ -34,5 +36,6 @@
       "deviantcord4",
       "update"
     ]
-  }
+  },
+  "unlisted": false
 }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "self-hosting/cockroach-serverless",
   "id": "self-hosting/cockroach-serverless",
   "title": "Setting up CockroachDB",
   "description": "",
@@ -8,6 +7,7 @@
   "slug": "/self-hosting/cockroach-serverless",
   "permalink": "/docs/self-hosting/cockroach-serverless",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/self-hosting/cockroach-serverless.md",
   "tags": [],
   "version": "current",
