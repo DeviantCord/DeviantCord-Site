@@ -46,7 +46,7 @@ const FeatureList = [
         png: require('@site/static/img/self_hosted.png').default,
         description: (
             <>
-                DeviantCord 4 allows for you to self host your own DeviantCord bot. It works great with CockroachDB Serverless, which offers a free tier!
+                DeviantCord 4 allows for you to self host your own DeviantCord bot. Using only open source software!
             </>
         ),
     },
