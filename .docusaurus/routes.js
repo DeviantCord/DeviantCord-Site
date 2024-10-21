@@ -48,6 +48,16 @@ export default [
     exact: true
   },
   {
+    path: '/privacy-policy',
+    component: ComponentCreator('/privacy-policy', 'a6b'),
+    exact: true
+  },
+  {
+    path: '/terms-of-service',
+    component: ComponentCreator('/terms-of-service', '0fc'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs', '71f'),
     routes: [

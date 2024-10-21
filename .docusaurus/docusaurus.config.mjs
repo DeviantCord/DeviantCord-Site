@@ -90,6 +90,14 @@ export default {
             {
               "label": "Discord",
               "href": "https://discord.gg/32krAChPHp"
+            },
+            {
+              "label": "Terms of Service",
+              "href": "/terms-of-service"
+            },
+            {
+              "label": "Privacy Policy",
+              "href": "/privacy-policy"
             }
           ]
         },

@@ -50,5 +50,5 @@ of testing.
 ## Phase 3:
 - Write Self Hosted Documentation
 - Write DockerFiles for DeviantCord 4
-- Write PageOps (Another piece of software for monitoring DeviantCord Docker Containers)
+~~- Write PageOps (Another piece of software for monitoring DeviantCord Docker Containers)~~
   -TBD
