@@ -1,6 +1,6 @@
 name: app
   # The type of the application to build.
-type: "nodejs:16"
+type: "nodejs:18"
 
 disk: 2048
 
