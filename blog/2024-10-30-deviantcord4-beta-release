@@ -87,35 +87,3 @@ We're launching the **public beta test** of DeviantCord V4.0! While we've worked
 Thank you for helping us test DeviantCord V4.0! While we've worked hard to fix many bugs before this beta, your testing will help us identify and resolve any remaining issues. Together, we're making DeviantCord better for everyone.
 
 Happy Testing! 🎨
-
-# Short Announcement.md
-# 🎉 DeviantCord V4.0 BETA Test Launch! 🎉
-
-We're excited to announce the public beta of DeviantCord V4.0! This is a **complete rebuild** with exciting new features and improvements.
-
-⚠️ **IMPORTANT**: The old bot has been deleted. You'll need to:
-- Reinvite the new bot: [Bot Invite Link]
-- Reconfigure all your listeners
-- Start with `/setuprole` to set admin access
-
-🚀 **New Features**:
-- Discord Slash Commands
-- Enhanced Gallery Integration
-- Expanded Notifications (artwork, journals, status updates)
-- Post Listeners
-- Custom Embedding
-- Performance Improvements
-
-📜 **Please Note**:
-- Review our Terms of Service: https://deviantcord.com/terms-of-service
-- Beta test runs for 4 weeks
-- Expect some bugs - this is a beta!
-- Use `/help` to see all commands
-
-📝 **Known Issues**:
-- Some commands say "journal listeners" instead of "post listeners"
-- `/updatechannel` command is unavailable
-
-🔧 **Found a Bug?** Report it in #bug-reports!
-
-Start testing today and help shape the future of DeviantCord! See #announcements for the full details.
