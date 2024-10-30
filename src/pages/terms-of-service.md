@@ -67,7 +67,6 @@ DeviantCord enforces a zero-tolerance policy regarding:
 - Sexual violence or glorification of non-consensual acts
 - Graphic violence presented as sexually stimulating
 - Fringe sexual fetishes (e.g., incest, necrophilia, amputation)
-- Offering sexual services
 
 Users are responsible for ensuring all content they interact with or share through DeviantCord bot complies with these guidelines. Violation may result in immediate termination of access to the bot and potential reporting to Discord and/or DeviantArt.
 
