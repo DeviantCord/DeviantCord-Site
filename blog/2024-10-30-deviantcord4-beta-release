@@ -44,11 +44,10 @@ We're launching the **public beta test** of DeviantCord V4.0! While we've worked
 ## 🎯 How to Participate
 1. Review and accept the Terms of Service
 2. Reinvite the bot using the new invite link [here](https://discord.com/oauth2/authorize?client_id=1297715317082030162&permissions=0&integration_type=0&scope=bot)
-3. Read the testing guidelines in #beta-guidelines
-4. Configure admin role using `/setuprole`
-5. Set up your listeners and notifications
-6. Start testing and share your experience
-7. Report any bugs you find (except known issues)
+3. Configure admin role using `/setuprole`
+4. Set up your listeners and notifications
+5. Start testing and share your experience
+6. Report any bugs you find (except known issues)
 
 ## ⚠️ Important Notes
 - As a beta version, expect occasional bugs and issues
