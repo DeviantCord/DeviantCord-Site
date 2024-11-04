@@ -1,6 +1,6 @@
 ---
 slug: deviantcord4-beta-404-release
-title: DeviantCord 4 Beta Release 4.0.4
+title: DeviantCord 4 Beta 4.0.4 Patch Notes
 authors: mriley
 tags: [deviantcord4, release, patch notes, bug fixes]
 ---
