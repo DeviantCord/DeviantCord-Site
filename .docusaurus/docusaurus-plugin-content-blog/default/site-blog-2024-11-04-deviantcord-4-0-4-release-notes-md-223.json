@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/deviantcord4-beta-404-release",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-11-04-deviantcord-4-0-4-release-notes.md",
+  "source": "@site/blog/2024-11-04-deviantcord-4-0-4-release-notes.md",
+  "title": "DeviantCord 4 Beta Release 4.0.4",
+  "description": "version",
+  "date": "2024-11-04T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "deviantcord4",
+      "permalink": "/blog/tags/deviantcord-4"
+    },
+    {
+      "inline": true,
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "inline": true,
+      "label": "patch notes",
+      "permalink": "/blog/tags/patch-notes"
+    },
+    {
+      "inline": true,
+      "label": "bug fixes",
+      "permalink": "/blog/tags/bug-fixes"
+    }
+  ],
+  "readingTime": 1.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Michael Riley",
+      "title": "DeviantCord Creator/ Developer",
+      "imageURL": "https://avatars.githubusercontent.com/u/10839242?v=4",
+      "key": "mriley",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "deviantcord4-beta-404-release",
+    "title": "DeviantCord 4 Beta Release 4.0.4",
+    "authors": "mriley",
+    "tags": [
+      "deviantcord4",
+      "release",
+      "patch notes",
+      "bug fixes"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "DeviantCord 4 Beta Release",
+    "permalink": "/blog/deviantcord4-beta-release"
+  }
+}

@@ -37,5 +37,9 @@
       "update"
     ]
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "DeviantCord 4 Beta Release",
+    "permalink": "/blog/deviantcord4-beta-release"
+  }
 }

@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'f54'),
+    component: ComponentCreator('/blog', 'e10'),
     exact: true
   },
   {
@@ -18,6 +18,16 @@ export default [
     exact: true
   },
   {
+    path: '/blog/deviantcord4-beta-404-release',
+    component: ComponentCreator('/blog/deviantcord4-beta-404-release', '9cb'),
+    exact: true
+  },
+  {
+    path: '/blog/deviantcord4-beta-release',
+    component: ComponentCreator('/blog/deviantcord4-beta-release', '254'),
+    exact: true
+  },
+  {
     path: '/blog/deviantcord4-upcoming-release',
     component: ComponentCreator('/blog/deviantcord4-upcoming-release', '431'),
     exact: true
@@ -28,8 +38,23 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/bug-fixes',
+    component: ComponentCreator('/blog/tags/bug-fixes', 'a03'),
+    exact: true
+  },
+  {
     path: '/blog/tags/deviantcord-4',
-    component: ComponentCreator('/blog/tags/deviantcord-4', '9cf'),
+    component: ComponentCreator('/blog/tags/deviantcord-4', '5cb'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/patch-notes',
+    component: ComponentCreator('/blog/tags/patch-notes', '7b4'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/release',
+    component: ComponentCreator('/blog/tags/release', '300'),
     exact: true
   },
   {

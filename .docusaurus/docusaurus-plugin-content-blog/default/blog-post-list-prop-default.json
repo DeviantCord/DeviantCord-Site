@@ -2,6 +2,18 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "DeviantCord 4 Beta Release 4.0.4",
+      "permalink": "/blog/deviantcord4-beta-404-release",
+      "unlisted": false,
+      "date": "2024-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "DeviantCord 4 Beta Release",
+      "permalink": "/blog/deviantcord4-beta-release",
+      "unlisted": false,
+      "date": "2024-10-30T00:00:00.000Z"
+    },
+    {
       "title": "DeviantCord 4 Upcoming Release",
       "permalink": "/blog/deviantcord4-upcoming-release",
       "unlisted": false,
